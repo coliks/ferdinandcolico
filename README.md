@@ -28,9 +28,17 @@ I'm a self-taught web developer focused on turning what I learn into real, worki
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### 📌 Featured Projects
+> *(Pin your best 3-6 repos on your profile — they'll show up right below this README. Give each one a short description, a screenshot, and a live demo link if you have one.)*
 
+### 📈 GitHub Stats
+![Ferdinand's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+
+*(Replace `YOUR-USERNAME` with your actual GitHub username in both links above.)*
 
 ### 📬 Get In Touch
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ferdinand-colico.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:colicoferdinandj@gmail.com)
 
 <!-- Optional: add LinkedIn, portfolio site, or Twitter/X badges here once you have them -->

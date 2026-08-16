@@ -32,8 +32,8 @@ I'm a self-taught web developer focused on turning what I learn into real, worki
 > *(Pin your best 3-6 repos on your profile — they'll show up right below this README. Give each one a short description, a screenshot, and a live demo link if you have one.)*
 
 ### 📈 GitHub Stats
-![Ferdinand's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+![Ferdinand's GitHub stats](https://github-readme-stats.vercel.app/api?username=coliks&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coliks&layout=compact)
 
 *(Replace `YOUR-USERNAME` with your actual GitHub username in both links above.)*
 
